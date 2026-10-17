@@ -1,5 +1,9 @@
-LANGKAH-LANGKAH LAPORAN PRAKTIKUM 4
+=== LANGKAH-LANGKAH LAPORAN PRAKTIKUM 4 ===
 
+Nama    : Eka Sari Praditya
+NIM     : 312510021
+Kelas   : I253A
+Matkul  : Pemrogramman Web
 # 1. Membuat Box Element
 ![Gambar 1](screenshot/Membuat%20Box%20Element.png)
 
